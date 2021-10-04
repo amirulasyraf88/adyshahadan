@@ -29,26 +29,32 @@
     <br>
      <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Link 1<br>hello</v-btn>
+   <v-btn block x-large outlined>Latest Stories</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Link 1<br>hello</v-btn>
+   <v-btn block x-large outlined>Pricing</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Link 1<br>hello</v-btn>
+   <v-btn block x-large outlined>Inquiry Here</v-btn>
       
     </v-layout>
     <v-spacer />
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Link 1<br>hello</v-btn>
+   <v-btn block x-large outlined>Contact Us</v-btn>
+      
+    </v-layout>
+    <br>
+     <v-layout row wrap align-center justify-center>
+     
+   <v-btn block x-large outlined>FAQ</v-btn>
       
     </v-layout>
     
