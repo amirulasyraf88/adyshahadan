@@ -49,7 +49,7 @@
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined id="border">Contact Us</v-btn>
+   <v-btn block x-large outlined id="border" href="https://wasap.my/60177894561">Contact Us</v-btn>
       
     </v-layout>
     <br>
