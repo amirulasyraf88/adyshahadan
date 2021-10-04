@@ -60,7 +60,10 @@
    <v-btn block x-large outlined id="border" href="https://adyshahadan.com/faq/">FAQ</v-btn>
       
     </v-layout>
-    
+    <br>
+    <v-layout row wrap align-center justify-center>
+    <img src="https://adyshahadan.com/wp-content/uploads/2019/09/logo-tebal-1.png" height="100px"/>
+    </v-layout>
 </v-container>
 
 </template>
