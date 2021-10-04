@@ -2,10 +2,10 @@
   <v-container grid-list-md>
       <v-layout row wrap align-center justify-center>
          
-      <v-avatar size="150">
+      <v-avatar size="180">
       <img
-        src="https://cdn.vuetifyjs.com/images/john.jpg"
-        alt="John"
+        src="https://i.imgur.com/PkSj32m.jpeg"
+        alt="Adyshahadan"
         
       >
     </v-avatar>
@@ -15,9 +15,7 @@
   
       
     </v-layout>
-    <v-layout row wrap align-center justify-center>
-      Adyshahadan
-    </v-layout>
+    
 <br>
     <v-layout>
     <v-text-card id="text1">
@@ -61,9 +59,7 @@
       
     </v-layout>
     <br>
-    <v-layout row wrap align-center justify-center>
-    <img src="https://adyshahadan.com/wp-content/uploads/2019/09/logo-tebal-1.png" height="100px"/>
-    </v-layout>
+   
 </v-container>
 
 </template>
