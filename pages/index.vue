@@ -2,11 +2,11 @@
   <v-container grid-list-md>
       <v-layout row wrap align-center justify-center>
          
-      <v-avatar>
+      <v-avatar size="200">
       <img
         src="https://cdn.vuetifyjs.com/images/john.jpg"
         alt="John"
-        size="200"
+        
       >
     </v-avatar>
 
