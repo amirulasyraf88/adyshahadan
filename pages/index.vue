@@ -20,12 +20,12 @@
     </v-layout>
 <br>
     <v-layout>
-    <v-text-card>
+    <v-text-card id="text1">
       Hello there,
     </v-text-card>
     </v-layout>
     <v-layout>
-    <v-text-card>
+    <v-text-card id="text1">
       If you are feeling connection with our work then we are probably going to be great fit!
     </v-text-card>
     </v-layout>
@@ -67,5 +67,9 @@
 <style scoped>
 #border{
   border-radius: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+#text1{
+  font-family: "Times New Roman", Times, serif;
 }
 </style>
