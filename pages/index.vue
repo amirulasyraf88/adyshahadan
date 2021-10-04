@@ -32,19 +32,19 @@
     <br>
      <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined id="border">Latest Stories</v-btn>
+   <v-btn block x-large outlined id="border" href="https://adyshahadan.com/gallery/">Latest Stories</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined id="border">Pricing</v-btn>
+   <v-btn block x-large outlined id="border" href="https://adyshahadan.com/pricing/">Pricing</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined id="border">Inquiry Here</v-btn>
+   <v-btn block x-large outlined id="border" href="https://adyshahadan.com/inquiry/">Inquiry Here</v-btn>
       
     </v-layout>
     <v-spacer />
@@ -57,7 +57,7 @@
     <br>
      <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined id="border">FAQ</v-btn>
+   <v-btn block x-large outlined id="border" href="https://adyshahadan.com/faq/">FAQ</v-btn>
       
     </v-layout>
     
