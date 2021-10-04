@@ -32,35 +32,40 @@
     <br>
      <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Latest Stories</v-btn>
+   <v-btn block x-large outlined id="border">Latest Stories</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Pricing</v-btn>
+   <v-btn block x-large outlined id="border">Pricing</v-btn>
       
     </v-layout>
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Inquiry Here</v-btn>
+   <v-btn block x-large outlined id="border">Inquiry Here</v-btn>
       
     </v-layout>
     <v-spacer />
     <br>
     <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>Contact Us</v-btn>
+   <v-btn block x-large outlined id="border">Contact Us</v-btn>
       
     </v-layout>
     <br>
      <v-layout row wrap align-center justify-center>
      
-   <v-btn block x-large outlined>FAQ</v-btn>
+   <v-btn block x-large outlined id="border">FAQ</v-btn>
       
     </v-layout>
     
 </v-container>
 
 </template>
+<style scoped>
+#border{
+  border-radius: 25px;
+}
+</style>
