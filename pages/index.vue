@@ -11,12 +11,15 @@
       >
     </v-avatar>
   </v-row>
+   <v-row align="center"
+      justify="center">
+   <v-btn>Link 1</v-btn>
+    <v-btn>Link 1</v-btn>
+    <v-btn>Link 1</v-btn>
+    <v-btn>Link 1</v-btn>
+    <v-btn>Link 1</v-btn>
+  </v-row>
       
-    <v-btn>Link 1</v-btn>
-    <v-btn>Link 1</v-btn>
-    <v-btn>Link 1</v-btn>
-    <v-btn>Link 1</v-btn>
-    <v-btn>Link 1</v-btn>
     <v-layout>
 </v-container>
 
