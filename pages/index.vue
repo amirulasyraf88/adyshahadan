@@ -1,4 +1,5 @@
 <template>
+
   <v-container grid-list-md>
       <v-layout row wrap align-center justify-center>
          
@@ -18,7 +19,7 @@
     
 <br>
     <v-layout>
-    <v-text-card id="text1">
+    <v-text-card id="text2">
       Hello there,
     </v-text-card>
     </v-layout>
@@ -71,5 +72,10 @@
 }
 #text1{
   font-family: "Times New Roman", Times, serif;
+}
+#text2{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  font-weight: bold;
 }
 </style>
