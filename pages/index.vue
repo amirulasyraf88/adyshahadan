@@ -1,5 +1,10 @@
 <template>
-  <v-container fluid>
+  <v-container fill-height fluid>
+      <v-layout fill-height>
+          <v-row align="center"
+      justify="center">
+      <v-col>sdada</v-col>
+  </v-row>
       <v-avatar>
       <img
         src="https://cdn.vuetifyjs.com/images/john.jpg"
@@ -12,6 +17,7 @@
     <v-btn>Link 1</v-btn>
     <v-btn>Link 1</v-btn>
     <v-btn>Link 1</v-btn>
+    <v-layout>
 </v-container>
 
 </template>
