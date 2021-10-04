@@ -67,6 +67,7 @@
 #border{
   border-radius: 25px;
   font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
 }
 #text1{
   font-family: "Times New Roman", Times, serif;
