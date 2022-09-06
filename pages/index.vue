@@ -20,7 +20,7 @@
 <br>
     <v-layout>
     <v-text-card id="text2">
-      Hello there,
+      Assalamualaikum,
     </v-text-card>
     </v-layout>
     <v-layout>
