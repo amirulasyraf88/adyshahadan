@@ -6,7 +6,7 @@
       <v-avatar size="180">
       <img
         src="https://i.imgur.com/PkSj32m.jpeg"
-        alt="Adyshahadan"
+        alt="Hikmee Botak"
         
       >
     </v-avatar>
